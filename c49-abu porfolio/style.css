@@ -1,0 +1,37 @@
+h1{
+    color: blue;
+    margin-left: 500px;
+
+}
+
+.header *{
+    border: solid ;
+}
+
+.header{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    background-color:red ;
+}
+
+.grid{
+    display: flex;
+    flex-wrap : wrap;
+    justify-content: space-evenly;
+    background-color:green;
+}
+
+
+
+    
+
+
+      
+
